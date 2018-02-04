@@ -1,4 +1,0 @@
-- meet with prospective tenants and buyers
-- liaise between on-site managers or tenants and owners
-- negotiate the sale or lease, and complete appropriate documentation
-- prepare detailed budgets and financial reports for properties
